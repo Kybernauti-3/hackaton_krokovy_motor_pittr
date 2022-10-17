@@ -5,6 +5,5 @@
 Krokovy motor
 
  >Tohle je komentar!
- -věc 1
- -věc 2
- 
+ - točilo se to hezky
+ -https://www.youngwonks.com/blog/How-to-use-a-stepper-motor-with-the-Raspberry-Pi-Pico
